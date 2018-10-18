@@ -1,0 +1,638 @@
+﻿10:30:01,lsass.exe,496,RegOpenKey,HKLM\SAM\SAM\DOMAINS\Account\Groups\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+10:31:05,lsass.exe,496,RegOpenKey,HKLM\SAM\SAM\DOMAINS\Account\Aliases\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+10:33:09,lsass.exe,496,RegOpenKey,HKLM\SAM\SAM\DOMAINS\Account\Users\000003E8,SUCCESS,Desired Access: Read/Write
+10:36:02,lsass.exe,496,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+10:27:03,lsass.exe,496,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+10:38:07,lsass.exe,496,RegOpenKey,HKLM\SAM\SAM\DOMAINS\Account\Groups\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+10:39:05,lsass.exe,496,RegOpenKey,HKLM\SAM\SAM\DOMAINS\Account\Aliases\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+10:45:07,lsass.exe,496,RegOpenKey,HKLM\SAM\SAM\DOMAINS\Account\Users\000003E8,SUCCESS,Desired Access: Read/Write
+10:45:09,lsass.exe,496,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+10:46:01,lsass.exe,496,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+10:47:05,svchost.exe,892,ReadFile,C:\Windows\System32\imageres.dll,SUCCESS,"Offset: 6,283,264, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:50:06,svchost.exe,892,ReadFile,C:\Windows\System32\imageres.dll,SUCCESS,"Offset: 6,287,360, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:50:04,svchost.exe,892,ReadFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 3,167,232, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:50:01,svchost.exe,892,ReadFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 3,171,328, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:50:03,svchost.exe,892,ReadFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 3,179,520, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:50:02,svchost.exe,892,ReadFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 3,200,000, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:56.5,svchost.exe,892,ReadFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 3,224,576, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:57.6,svchost.exe,892,ReadFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 3,671,040, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:58.7,svchost.exe,892,ReadFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 4,322,304, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:59.8,chrome.exe,3932,Thread Exit,,SUCCESS,"Thread ID: 3620, User Time: 0.0000000, Kernel Time: 0.0000000"
+11:05.5,chrome.exe,3932,Thread Exit,,SUCCESS,"Thread ID: 3796, User Time: 0.0156250, Kernel Time: 0.0000000"
+11:08.5,svchost.exe,892,ReadFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 4,338,688, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+11:09.3,svchost.exe,892,ReadFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 5,112,832, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+11:10.8,svchost.exe,892,ReadFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 5,771,264, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:47:05,svchost.exe,2732,CloseFile,C:\Windows\System32\imageres.dll,SUCCESS,"Offset: 6,283,264, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:50:06,svchost.exe,2732,CloseFile,C:\Windows\System32\imageres.dll,SUCCESS,"Offset: 6,287,360, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:50:04,svchost.exe,2732,CloseFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 3,167,232, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:50:01,svchost.exe,2732,CloseFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 3,171,328, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:50:03,svchost.exe,2732,CloseFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 3,179,520, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:50:02,svchost.exe,2732,CloseFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 3,200,000, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:56.5,svchost.exe,2732,CloseFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 3,224,576, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:57.6,svchost.exe,2732,CloseFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 3,671,040, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+10:58.7,svchost.exe,2732,CloseFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 4,322,304, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+11:08.5,svchost.exe,2732,CloseFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 4,338,688, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+11:09.3,svchost.exe,2732,CloseFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 5,112,832, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+11:10.8,svchost.exe,2732,CloseFile,C:\Windows\System32\mshtml.dll,SUCCESS,"Offset: 5,771,264, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Priority: Very Low"
+11:11.1,csrss.exe,400,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\PublisherPolicyChangeTime,SUCCESS,"Type: REG_QWORD, Length: 8, Data: "
+11:12.1,csrss.exe,400,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\PublisherPolicyChangeTime,SUCCESS,"Type: REG_QWORD, Length: 8, Data: "
+11:13.2,chrome.exe,3932,Thread Exit,,SUCCESS,"Thread ID: 2280, User Time: 0.0000000, Kernel Time: 0.0156250"
+11:15.3,csrss.exe,400,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\PublisherPolicyChangeTime,SUCCESS,"Type: REG_QWORD, Length: 8, Data: "
+11:18.5,csrss.exe,400,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\PublisherPolicyChangeTime,SUCCESS,"Type: REG_QWORD, Length: 8, Data: "
+11:20.6,csrss.exe,400,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\PublisherPolicyChangeTime,SUCCESS,"Type: REG_QWORD, Length: 8, Data: "
+11:23.7,csrss.exe,400,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\PublisherPolicyChangeTime,SUCCESS,"Type: REG_QWORD, Length: 8, Data: "
+11:25.8,chrome.exe,3932,Thread Exit,,SUCCESS,"Thread ID: 2280, User Time: 0.0000000, Kernel Time: 0.0156250"
+11:39.8,chrome.exe,3932,Thread Exit,,SUCCESS,"Thread ID: 2280, User Time: 0.0000000, Kernel Time: 0.0156250"
+11:46.5,chrome.exe,3932,Thread Exit,,SUCCESS,"Thread ID: 2280, User Time: 0.0000000, Kernel Time: 0.0156250"
+11:47.1,rundll32.exe,2732,RegEnumValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RemoveAccess,NO MORE ENTRIES,"Index: 0, Length: 1,040"
+11:47.1,rundll32.exe,2732,RegEnumValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RemoveAccess,NO MORE ENTRIES,"Index: 0, Length: 1,040"
+11:47.1,rundll32.exe,2732,RegEnumValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RemoveAccess,NO MORE ENTRIES,"Index: 0, Length: 1,040"
+11:47.1,rundll32.exe,2732,RegEnumValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RemoveAccess,NO MORE ENTRIES,"Index: 0, Length: 1,040"
+11:47.1,rundll32.exe,2732,RegEnumValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RemoveAccess,NO MORE ENTRIES,"Index: 0, Length: 1,040"
+11:47.1,rundll32.exe,2732,RegEnumValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RemoveAccess,NO MORE ENTRIES,"Index: 0, Length: 1,040"
+11:47.1,rundll32.exe,2732,RegEnumValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RemoveAccess,NO MORE ENTRIES,"Index: 0, Length: 1,040"
+11:48.1,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RemoveAccess,SUCCESS,
+11:49.1,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:49.1,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:49.1,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:49.1,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:49.1,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:49.1,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:49.1,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:49.1,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:49.9,rundll32.exe,2732,QueryStandardInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"AllocationSize: 651,264, EndOfFile: 647,184, NumberOfLinks: 2, DeletePending: False, Directory: False"
+11:50.1,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:51.2,rundll32.exe,2732,QueryAttributeInformationVolume,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+11:51.2,rundll32.exe,2732,QueryAttributeInformationVolume,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+11:51.2,rundll32.exe,2732,QueryAttributeInformationVolume,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+11:51.2,rundll32.exe,2732,QueryAttributeInformationVolume,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+11:51.2,rundll32.exe,2732,QueryAttributeInformationVolume,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+11:51.2,rundll32.exe,2732,QueryAttributeInformationVolume,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+11:51.2,rundll32.exe,2732,QueryAttributeInformationVolume,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+11:51.2,rundll32.exe,2732,QueryAttributeInformationVolume,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFSf"
+11:51.4,rundll32.exe,2732,CreateFileMapping,C:\Windows\Fonts\tahomabd.ttf,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_READ"
+11:51.5,rundll32.exe,2732,QueryStandardInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"AllocationSize: 651,264, EndOfFile: 647,184, NumberOfLinks: 2, DeletePending: False, Directory: False"
+11:51.7,rundll32.exe,2732,CreateFileMapping,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,SyncType: SyncTypeOther
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.7,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.7,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.7,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.7,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.7,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.7,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.7,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.7,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.7,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.7,rundll32.exe,2732,CreateFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Alert, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.3,rundll32.exe,2732,QueryStandardInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"AllocationSize: 651,264, EndOfFile: 647,184, NumberOfLinks: 2, DeletePending: False, Directory: False"
+11:52.3,rundll32.exe,2732,QueryStandardInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"AllocationSize: 651,264, EndOfFile: 647,184, NumberOfLinks: 2, DeletePending: False, Directory: False"
+11:52.3,rundll32.exe,2732,QueryStandardInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"AllocationSize: 651,264, EndOfFile: 647,184, NumberOfLinks: 2, DeletePending: False, Directory: False"
+11:52.3,rundll32.exe,2732,QueryStandardInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"AllocationSize: 651,264, EndOfFile: 647,184, NumberOfLinks: 2, DeletePending: False, Directory: False"
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:52.8,rundll32.exe,2732,QueryBasicInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"CreationTime: 7/13/2009 11:31:09 PM, LastAccessTime: 7/13/2009 11:31:09 PM, LastWriteTime: 6/11/2009 21:26:35 AM, ChangeTime: 8/16/2018 1:09:37 AM, FileAttributes: A"
+11:51.9,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:53.5,rundll32.exe,2732,QueryAttributeInformationVolume,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+11:53.5,rundll32.exe,2732,QueryAttributeInformationVolume,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+11:53.5,rundll32.exe,2732,QueryAttributeInformationVolume,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+11:53.9,rundll32.exe,2732,CreateFileMapping,C:\Windows\Fonts\tahomabd.ttf,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_READ"
+11:53.9,rundll32.exe,2732,CreateFileMapping,C:\Windows\Fonts\tahomabd.ttf,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_READ"
+11:54.2,rundll32.exe,2732,QueryStandardInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"AllocationSize: 651,264, EndOfFile: 647,184, NumberOfLinks: 2, DeletePending: False, Directory: False"
+11:54.3,rundll32.exe,2732,QueryStandardInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"AllocationSize: 651,264, EndOfFile: 647,184, NumberOfLinks: 2, DeletePending: False, Directory: False"
+11:54.3,rundll32.exe,2732,QueryStandardInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"AllocationSize: 651,264, EndOfFile: 647,184, NumberOfLinks: 2, DeletePending: False, Directory: False"
+11:54.2,rundll32.exe,2732,QueryStandardInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"AllocationSize: 651,264, EndOfFile: 647,184, NumberOfLinks: 2, DeletePending: False, Directory: False"
+11:54.3,rundll32.exe,2732,QueryStandardInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"AllocationSize: 651,264, EndOfFile: 647,184, NumberOfLinks: 2, DeletePending: False, Directory: False"
+11:54.3,rundll32.exe,2732,QueryStandardInformationFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,"AllocationSize: 651,264, EndOfFile: 647,184, NumberOfLinks: 2, DeletePending: False, Directory: False"
+11:55.1,rundll32.exe,2732,CreateFileMapping,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,SyncType: SyncTypeOther
+11:55.1,rundll32.exe,2732,CreateFileMapping,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,SyncType: SyncTypeOther
+11:55.7,rundll32.exe,2732,CloseFile,C:\Windows\Fonts\tahomabd.ttf,SUCCESS,
+11:56.3,rundll32.exe,2732,ReadFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS,"Offset: 9,109,504, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+11:56.3,rundll32.exe,2732,ReadFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS,"Offset: 9,109,504, Length: 32,768, I/O g I/O, Synchronous Paging I/O, Priority: Normal"
+11:56.7,Explorer.EXE,1596,RegOpenKey,HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,Desired Access: Read
+11:56.7,Explorer.EXE,1596,RegOpenKey,HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,Desired Access: Read
+11:56.7,Explorer.EXE,1596,RegOpenKey,HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,Desired Access: Read
+11:58.2,Explorer.EXE,1596,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,
+11:58.2,Explorer.EXE,1596,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,
+11:58.2,Explorer.EXE,1596,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,
+11:58.5,rundll32.exe,2732,ReadFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS,"Offset: 9,142,272, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+11:58.7,Explorer.EXE,1596,RegOpenKey,HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,Desired Access: Read
+11:59.3,Explorer.EXE,1596,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Segoe UI,NAME NOT FOUND,Length: 144
+11:59.3,Explorer.EXE,1596,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Segoe UI,NAME NOT FOUND,Length: 144
+11:59.3,Explorer.EXE,1596,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Segoe UI,NAME NOT FOUND,Length: 144
+11:59.3,Explorer.EXE,1596,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Segoe UI,NAME NOT FOUND,Length: 144
+12:09:03,Explorer.EXE,1596,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,
+12:09:09,Explorer.EXE,1596,RegOpenKey,HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,Desired Access: Read
+12:01.2,Explorer.EXE,1596,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Segoe UI,NAME NOT FOUND,Length: 144
+12:02.5,Explorer.EXE,1596,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,
+12:03.4,rundll32.exe,2732,ReadFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS,"Offset: 6,942,720, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+12:04.1,Explorer.EXE,1596,RegOpenKey,HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,Desired Access: Read
+12:05.3,Explorer.EXE,1596,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Segoe UI,NAME NOT FOUND,Length: 144
+12:05.7,Explorer.EXE,1596,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,
+12:06.1,Explorer.EXE,1596,RegOpenKey,HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,Desired Access: Read
+12:06.6,Explorer.EXE,1596,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Segoe UI,NAME NOT FOUND,Length: 144
+12:07.3,Explorer.EXE,1596,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,
+12:07.8,rundll32.exe,2732,ReadFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS,"Offset: 6,942,720, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+12:10.9,Explorer.EXE,1596,RegOpenKey,HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,Desired Access: Read
+12:13.8,Explorer.EXE,1596,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Segoe UI,NAME NOT FOUND,Length: 144
+12:14.5,Explorer.EXE,1596,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,
+12:16.1,Explorer.EXE,1596,RegOpenKey,HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,Desired Access: Read
+12:18.1,Explorer.EXE,1596,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Segoe UI,NAME NOT FOUND,Length: 144
+12:19.1,Explorer.EXE,1596,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,
+12:20.2,rundll32.exe,2732,ReadFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS,"Offset: 6,942,720, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+12:22.3,Explorer.EXE,1596,RegOpenKey,HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,Desired Access: Read
+12:24.5,Explorer.EXE,1596,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Segoe UI,NAME NOT FOUND,Length: 144
+12:25.1,Explorer.EXE,1596,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,
+12:26.7,Explorer.EXE,1596,RegOpenKey,HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,Desired Access: Read
+12:29.9,Explorer.EXE,1596,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Segoe UI,NAME NOT FOUND,Length: 144
+12:27.2,Explorer.EXE,1596,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes,SUCCESS,
+12:29.9,rundll32.exe,2732,ReadFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS,"Offset: 6,942,720, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+12:29.9,rundll32.exe,2732,ReadFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS,"Offset: 6,942,720, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+12:29.9,rundll32.exe,2732,ReadFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS,"Offset: 6,942,720, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+12:29.9,rundll32.exe,2732,ReadFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS,"Offset: 6,942,720, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+12:29.9,rundll32.exe,2732,ReadFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS,"Offset: 6,942,720, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+12:36.2,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+12:36.2,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+12:36.2,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+12:36.2,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+12:36.2,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+12:36.2,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+12:36.2,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+12:37.8,rundll32.exe,2732,RegQueryKey,HKCR\CompressedFolder,SUCCESS,Query: Name
+12:37.8,rundll32.exe,2732,RegQueryKey,HKCR\CompressedFolder,SUCCESS,Query: Name
+12:37.8,rundll32.exe,2732,RegQueryKey,HKCR\CompressedFolder,SUCCESS,Query: Name
+12:37.8,rundll32.exe,2732,RegQueryKey,HKCR\CompressedFolder,SUCCESS,Query: Name
+12:39.8,rundll32.exe,2732,RegOpenKey,HKCU\Software\Classes\CompressedFolder,NAME NOT FOUND,Desired Access: Maximum Allowed
+12:39.8,rundll32.exe,2732,RegOpenKey,HKCU\Software\Classes\CompressedFolder,NAME NOT FOUND,Desired Access: Maximum Allowed
+12:39.8,rundll32.exe,2732,RegOpenKey,HKCU\Software\Classes\CompressedFolder,NAME NOT FOUND,Desired Access: Maximum Allowed
+12:39.8,rundll32.exe,2732,RegOpenKey,HKCU\Software\Classes\CompressedFolder,NAME NOT FOUND,Desired Access: Maximum Allowed
+12:39.8,rundll32.exe,2732,RegOpenKey,HKCU\Software\Classes\CompressedFolder,NAME NOT FOUND,Desired Access: Maximum Allowed
+12:43.6,rundll32.exe,2732,RegQueryValue,HKCR\CompressedFolder\NoStaticDefaultVerb,NAME NOT FOUND,Length: 144
+12:43.6,rundll32.exe,2732,RegQueryValue,HKCR\CompressedFolder\NoStaticDefaultVerb,NAME NOT FOUND,Length: 144
+12:43.6,rundll32.exe,2732,RegQueryValue,HKCR\CompressedFolder\NoStaticDefaultVerb,NAME NOT FOUND,Length: 144
+12:43.6,rundll32.exe,2732,RegQueryValue,HKCR\CompressedFolder\NoStaticDefaultVerb,NAME NOT FOUND,Length: 144
+12:43.6,rundll32.exe,2732,RegQueryValue,HKCR\CompressedFolder\NoStaticDefaultVerb,NAME NOT FOUND,Length: 144
+12:44.2,rundll32.exe,2732,RegQueryKey,HKCR\CompressedFolder,SUCCESS,Query: Name
+12:49.9,rundll32.exe,2732,RegQueryKey,HKCR\CompressedFolder\shell,SUCCESS,Query: Name
+12:57.9,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+12:57.9,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+12:57.9,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+12:57.9,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+12:57.9,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+12:59.3,rundll32.exe,2732,RegQueryKey,HKCR\CompressedFolder,SUCCESS,Query: Name
+13:06.5,rundll32.exe,2732,RegQueryValue,HKCR\CompressedFolder\NoStaticDefaultVerb,NAME NOT FOUND,Length: 144
+13:06.5,rundll32.exe,2732,RegQueryValue,HKCR\CompressedFolder\NoStaticDefaultVerb,NAME NOT FOUND,Length: 144
+13:06.5,rundll32.exe,2732,RegQueryValue,HKCR\CompressedFolder\NoStaticDefaultVerb,NAME NOT FOUND,Length: 144
+13:06.5,rundll32.exe,2732,RegQueryValue,HKCR\CompressedFolder\NoStaticDefaultVerb,NAME NOT FOUND,Length: 144
+13:10.2,rundll32.exe,2732,RegQueryKey,HKCR\CompressedFolder,SUCCESS,Query: Name
+13:15.6,rundll32.exe,2732,RegOpenKey,HKCR\CompressedFolder\shell,SUCCESS,Desired Access: Read
+13:17.2,rundll32.exe,2732,RegQueryKey,HKCR\CompressedFolder\shell,SUCCESS,Query: Name
+13:18.3,rundll32.exe,2732,RegOpenKey,HKCU\Software\Classes\CompressedFolder\shell,NAME NOT FOUND,Desired Access: Maximum Allowed
+13:19.8,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+13:19.8,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+13:19.8,rundll32.exe,2732,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback,SUCCESS,
+13:20.2,rundll32.exe,2732,RegQueryKey,HKCR\CompressedFolder,SUCCESS,Query: Name
+13:21.3,rundll32.exe,2732,RegOpenKey,HKCU\Software\Classes\CompressedFolder,NAME NOT FOUND,Desired Access: Maximum Allowed
+13:22.7,rundll32.exe,2732,RegQueryValue,HKCR\CompressedFolder\NoStaticDefaultVerb,NAME NOT FOUND,Length: 144
+13:24.2,rundll32.exe,2732,RegQueryKey,HKCR\CompressedFolder,SUCCESS,Query: Name
+13:26.1,rundll32.exe,2732,RegOpenKey,HKCU\Software\Classes\CompressedFolder\shell,NAME NOT FOUND,Desired Access: Read
+13:28.3,rundll32.exe,2732,RegOpenKey,HKCR\CompressedFolder\shell,SUCCESS,Desired Access: Read
+13:30.9,rundll32.exe,2732,RegQueryKey,HKCR\CompressedFolder\shell,SUCCESS,Query: Name
+13:32.2,rundll32.exe,2732,RegOpenKey,HKCU\Software\Classes\CompressedFolder\shell,NAME NOT FOUND,Desired Access: Maximum Allowed
+13:34.5,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 61,440, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+13:36:02,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 1,105,920, Length: 12,288, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+13:38:07,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale,REPARSE,Desired Access: Read
+13:43:06,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale,SUCCESS,Desired Access: Read
+13:46:04,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale\en-US,NAME NOT FOUND,Length: 532
+13:49:08,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale,SUCCESS,
+13:52:08,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale,SUCCESS,
+13:54.6,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale,REPARSE,Desired Access: Read
+13:56:02,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale,SUCCESS,Desired Access: Read
+13:59:04,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale\en-US,NAME NOT FOUND,Length: 532
+14:09:01,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale,SUCCESS,
+14:09:07,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\Globalization\Sorting\SortDefault.nls,SUCCESS,"Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+14:02.3,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale,REPARSE,Desired Access: Read
+14:05.4,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale,SUCCESS,Desired Access: Read
+14:06.8,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale\en-US,NAME NOT FOUND,Length: 532
+14:08.7,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale,SUCCESS,
+14:09.7,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale,SUCCESS,
+14:10.3,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale,REPARSE,Desired Access: Read
+14:12.7,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale,SUCCESS,Desired Access: Read
+14:15.8,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale\en-US,NAME NOT FOUND,Length: 532
+14:18.5,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale,SUCCESS,
+14:20.4,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\Globalization\Sorting\SortDefault.nls,SUCCESS,"Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+14:21.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+14:22.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+14:24.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+14:25.9,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale\en-US,NAME NOT FOUND,Length: 532
+14:28.4,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale,SUCCESS,
+14:34.5,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale\en-US,NAME NOT FOUND,Length: 532
+14:36.2,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale,SUCCESS,
+14:38.1,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\Globalization\Sorting\SortDefault.nls,SUCCESS,"Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+14:40.3,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\Globalization\Sorting\SortDefault.nls,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_READONLY"
+14:44.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Globalization\Sorting\SortDefault.nls,SUCCESS,"AllocationSize: 2,945,024, EndOfFile: 2,944,004, NumberOfLinks: 2, DeletePending: False, Directory: False"
+14:45.2,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\Globalization\Sorting\SortDefault.nls,SUCCESS,SyncType: SyncTypeOther
+14:47.3,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\Globalization\Sorting\SortDefault.nls,SUCCESS,
+14:49.2,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 102,400, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+14:54.2,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\Locale\Alternate Sorts,REPARSE,Desired Access: Read
+14:55.9,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\Locale\Alternate Sorts,SUCCESS,Desired Access: Read
+14:56.7,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\Language Groups,REPARSE,Desired Access: Read
+14:57.3,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\Language Groups,SUCCESS,Desired Access: Read
+14:58.2,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\Locale\00000409,SUCCESS,"Type: REG_SZ, Length: 4, Data: 1"
+14:59.3,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\Language Groups\1,SUCCESS,"Type: REG_SZ, Length: 4, Data: 1"
+14:59.9,lsass.exe,476,QueryBasicInformationFile,HKLM\SAM\SAM\DOMAINS\Account\Groups\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+15:01.4,lsass.exe,502,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+15:01.4,lsass.exe,502,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+15:02.4,lsass.exe,502,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+15:03.2,lsass.exe,476,QueryBasicInformationFile,HKLM\SAM\SAM\DOMAINS\Account\Aliases\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+15:04.6,lsass.exe,476,QueryBasicInformationFile,HKLM\SAM\SAM\DOMAINS\Account\Users\000003E8,SUCCESS,Desired Access: Read/Write
+15:05.8,lsass.exe,499,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+15:06.8,lsass.exe,499,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+15:07.8,lsass.exe,499,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+15:08.4,lsass.exe,502,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+15:09.4,lsass.exe,502,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+15:10.4,lsass.exe,502,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+15:12.5,lsass.exe,476,QueryBasicInformationFile,HKLM\SAM\SAM\DOMAINS\Account\Groups\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+15:14.7,lsass.exe,476,QueryBasicInformationFile,HKLM\SAM\SAM\DOMAINS\Account\Aliases\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+15:18.3,lsass.exe,476,QueryBasicInformationFile,HKLM\SAM\SAM\DOMAINS\Account\Users\000003E8,SUCCESS,Desired Access: Read/Write
+15:21.7,lsass.exe,499,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+15:22.4,lsass.exe,502,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+15:23.4,lsass.exe,502,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+15:25.4,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 397,312, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+15:28.9,svchost.exe,2852,ReadFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 12,288, Length: 4,096"
+15:28.9,svchost.exe,2732,CloseFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 12,288, Length: 4,096"
+15:31.7,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\Software\Microsoft\Windows\Windows Error Reporting\WMR,SUCCESS,Desired Access: Query Value
+15:38.4,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows\Windows Error Reporting\WMR,SUCCESS,
+15:38.4,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows\Windows Error Reporting\WMR,SUCCESS,
+15:38.4,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows\Windows Error Reporting\WMR,SUCCESS,
+15:38.4,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows\Windows Error Reporting\WMR,SUCCESS,
+15:38.4,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows\Windows Error Reporting\WMR,SUCCESS,
+15:38.4,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows\Windows Error Reporting\WMR,SUCCESS,
+15:38.4,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows\Windows Error Reporting\WMR,SUCCESS,
+15:38.4,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows\Windows Error Reporting\WMR,SUCCESS,
+15:38.4,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows\Windows Error Reporting\WMR,SUCCESS,
+15:38.4,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows\Windows Error Reporting\WMR,SUCCESS,
+15:38.4,Sigma-ransomware.exe,1940,RegCloseKey,HKLM\SOFTWARE\Microsoft\Windows\Windows Error Reporting\WMR,SUCCESS,
+15:43.1,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\rpcss.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+15:46.3,Sigma-ransomware.exe,1940,QueryBasicInformationFile,C:\Windows\System32\rpcss.dll,SUCCESS,"CreationTime: 11/21/2010 21:29:12 AM, LastAccessTime: 11/21/2010 21:29:12 AM, LastWriteTime: 11/21/2010 21:29:12 AM, ChangeTime: 8/16/2018 1:21:32 AM, FileAttributes: A"
+15:47.3,Sigma-ransomware.exe,1940,QueryBasicInformationFile,C:\Windows\System32\rpcss.dll,SUCCESS,"CreationTime: 11/21/2010 21:29:12 AM, LastAccessTime: 11/21/2010 21:29:12 AM, LastWriteTime: 11/21/2010 21:29:12 AM, ChangeTime: 8/16/2018 1:21:32 AM, FileAttributes: A"
+15:49.5,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\rpcss.dll,SUCCESS,
+15:53.2,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\rpcss.dll,SUCCESS,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+15:54.7,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\rpcss.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_READONLY"
+15:56.8,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\System32\rpcss.dll,SUCCESS,"AllocationSize: 376,832, EndOfFile: 376,832, NumberOfLinks: 2, DeletePending: False, Directory: False"
+15:58.6,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\rpcss.dll,SUCCESS,SyncType: SyncTypeOther
+16:00.2,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\rpcss.dll,SUCCESS,
+16:02.7,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\rpcss.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+16:03.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+16:03.7,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+16:04.8,Sigma-ransomware.exe,1940,QueryBasicInformationFile,C:\Windows\System32\rpcss.dll,SUCCESS,"CreationTime: 11/21/2010 21:29:12 AM, LastAccessTime: 11/21/2010 21:29:12 AM, LastWriteTime: 11/21/2010 21:29:12 AM, ChangeTime: 8/16/2018 1:21:32 AM, FileAttributes: A"
+16:06.8,Sigma-ransomware.exe,1940,QueryBasicInformationFile,C:\Windows\System32\rpcss.dll,SUCCESS,"CreationTime: 11/21/2010 21:29:12 AM, LastAccessTime: 11/21/2010 21:29:12 AM, LastWriteTime: 11/21/2010 21:29:12 AM, ChangeTime: 8/16/2018 1:21:32 AM, FileAttributes: A"
+16:07.4,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\rpcss.dll,SUCCESS,
+16:10.9,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\rpcss.dll,SUCCESS,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+16:12.7,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\rpcss.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_READONLY"
+16:15.4,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\System32\rpcss.dll,SUCCESS,"AllocationSize: 376,832, EndOfFile: 376,832, NumberOfLinks: 2, DeletePending: False, Directory: False"
+16:18.9,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\rpcss.dll,SUCCESS,SyncType: SyncTypeOther
+16:22.1,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\rpcss.dll,SUCCESS,
+16:25.3,Sigma-ransomware.exe,1940,CreateFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\CRYPTBASE.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+16:27.5,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\cryptbase.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+16:30.8,Sigma-ransomware.exe,1940,QueryBasicInformationFile,C:\Windows\System32\cryptbase.dll,SUCCESS,"CreationTime: 7/14/2009 2:21:01 AM, LastAccessTime: 7/14/2009 2:21:01 AM, LastWriteTime: 7/14/2009 4:00:07 AM, ChangeTime: 8/16/2018 1:21:04 AM, FileAttributes: A"
+16:31.8,Sigma-ransomware.exe,1940,QueryBasicInformationFile,C:\Windows\System32\cryptbase.dll,SUCCESS,"CreationTime: 7/14/2009 2:21:01 AM, LastAccessTime: 7/14/2009 2:21:01 AM, LastWriteTime: 7/14/2009 4:00:07 AM, ChangeTime: 8/16/2018 1:21:04 AM, FileAttributes: A"
+16:33.2,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\cryptbase.dll,SUCCESS,
+16:36.6,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\cryptbase.dll,SUCCESS,"Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+16:37.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+16:38.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+16:39.1,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\cryptbase.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+16:40.7,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\cryptbase.dll,SUCCESS,SyncType: SyncTypeOther
+16:45.6,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\cryptbase.dll,SUCCESS,
+16:48.7,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+16:51.1,Sigma-ransomware.exe,1940,QueryBasicInformationFile,C:\Windows\System32\uxtheme.dll,SUCCESS,"CreationTime: 7/14/2009 2:40:46 AM, LastAccessTime: 7/14/2009 10:12.6 AM, LastWriteTime: 7/14/2009 4:10:17 AM, ChangeTime: 8/16/2018 1:21:36 AM, FileAttributes: A"
+16:53.1,Sigma-ransomware.exe,1940,QueryBasicInformationFile,C:\Windows\System32\uxtheme.dll,SUCCESS,"CreationTime: 7/14/2009 2:40:46 AM, LastAccessTime: 7/14/2009 10:12.6 AM, LastWriteTime: 7/14/2009 4:10:17 AM, ChangeTime: 8/16/2018 1:21:36 AM, FileAttributes: A"
+16:56.2,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\uxtheme.dll,SUCCESS,
+16:59.1,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS,"Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+17:03.8,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\uxtheme.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection,"
+17:05.4,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\uxtheme.dll,SUCCESS,SyncType: SyncTypeOther
+17:10.6,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\uxtheme.dll,SUCCESS,
+17:13.2,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 135,168, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+17:15.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+17:17.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+17:19.9,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\uxtheme.dll,SUCCESS,
+17:22.5,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS,"Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+17:25.9,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\uxtheme.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+17:28.3,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\uxtheme.dll,SUCCESS,SyncType: SyncTypeOther
+17:32.8,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\uxtheme.dll,SUCCESS,
+17:36.5,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 135,168, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+17:41.8,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\uxtheme.dll,SUCCESS,
+17:42.3,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS,"Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+17:45.9,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\uxtheme.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+17:49.2,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\uxtheme.dll,SUCCESS,SyncType: SyncTypeOther
+17:53.1,Sigma-ransomware.exe,1940,Load Image,C:\Windows\System32\uxtheme.dll,SUCCESS,"Image Base: 0x74100000, Image Size: 0x40000"
+17:56.6,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\uxtheme.dll,SUCCESS,
+17:59.2,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 135,168, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+18:09.3,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\uxtheme.dll,SUCCESS,
+18:06.1,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS,"Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+18:09.8,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\uxtheme.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+18:12.7,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\uxtheme.dll,SUCCESS,SyncType: SyncTypeOther
+18:14.9,Sigma-ransomware.exe,1940,Load Image,C:\Windows\System32\uxtheme.dll,SUCCESS,"Image Base: 0x74100000, Image Size: 0x40000"
+18:16.5,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\uxtheme.dll,SUCCESS,
+18:19.2,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 135,168, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+18:24.3,lsass.exe,502,QueryBasicInformationFile,HKLM\SAM\SAM\DOMAINS\Account\Groups\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+18:26.6,lsass.exe,502,QueryBasicInformationFile,HKLM\SAM\SAM\DOMAINS\Account\Aliases\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+18:29.2,lsass.exe,502,QueryBasicInformationFile,HKLM\SAM\SAM\DOMAINS\Account\Users\000003E8,SUCCESS,Desired Access: Read/Write
+18:24.3,lsass.exe,502,QueryBasicInformationFile,HKLM\SAM\SAM\DOMAINS\Account\Groups\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+18:26.6,lsass.exe,502,QueryBasicInformationFile,HKLM\SAM\SAM\DOMAINS\Account\Aliases\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+18:29.2,lsass.exe,502,QueryBasicInformationFile,HKLM\SAM\SAM\DOMAINS\Account\Users\000003E8,SUCCESS,Desired Access: Read/Write
+18:29.2,lsass.exe,502,QueryBasicInformationFile,HKLM\SAM\SAM\DOMAINS\Account\Users\000003E8,SUCCESS,Desired Access: Read/Write
+18:32.8,lsass.exe,496,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+18:32.8,lsass.exe,496,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+18:32.8,lsass.exe,496,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+18:32.8,lsass.exe,496,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+18:32.8,lsass.exe,496,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+18:32.8,lsass.exe,496,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+18:32.8,lsass.exe,496,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+18:32.8,lsass.exe,496,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+18:32.8,lsass.exe,496,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+18:35.9,lsass.exe,500,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+18:35.9,lsass.exe,500,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+18:35.9,lsass.exe,500,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+18:35.9,lsass.exe,500,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+18:35.9,lsass.exe,500,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+18:35.9,lsass.exe,500,RegCloseKey,HKLM\SAM\SAM\Domains\Account\Users\000003E8,SUCCESS,
+18:37.1,lsass.exe,502,RegOpenKey,HKLM\SAM\SAM\DOMAINS\Account\Groups\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+18:39.5,lsass.exe,502,RegOpenKey,HKLM\SAM\SAM\DOMAINS\Account\Aliases\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+18:43.8,lsass.exe,502,RegOpenKey,HKLM\SAM\SAM\DOMAINS\Account\Users\000003E8,SUCCESS,Desired Access: Read/Write
+18:37.1,lsass.exe,502,RegOpenKey,HKLM\SAM\SAM\DOMAINS\Account\Groups\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+18:39.5,lsass.exe,502,RegOpenKey,HKLM\SAM\SAM\DOMAINS\Account\Aliases\000003E8,NAME NOT FOUND,Desired Access: Read/Write
+18:43.8,lsass.exe,502,RegOpenKey,HKLM\SAM\SAM\DOMAINS\Account\Users\000003E8,SUCCESS,Desired Access: Read/Write
+18:43.8,lsass.exe,502,RegOpenKey,HKLM\SAM\SAM\DOMAINS\Account\Users\000003E8,SUCCESS,Desired Access: Read/Write
+18:45.6,lsass.exe,496,RegQueryValue,HKLM\SAM\SAM\Domains\Account\Users\000003E8\V,SUCCESS,"Type: REG_BINARY, Length: 444, Data: 00 00 00 00 BC 00 00 00 02 00 01 00 BC 00 00 00"
+18:47.3,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\uxtheme.dll,SUCCESS,
+18:50.2,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS,"Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+18:53.7,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\uxtheme.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+18:55.1,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\uxtheme.dll,SUCCESS,SyncType: SyncTypeOther
+18:59.8,Sigma-ransomware.exe,1940,Load Image,C:\Windows\System32\uxtheme.dll,SUCCESS,"Image Base: 0x74100000, Image Size: 0x40000"
+19:04.3,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\uxtheme.dll,SUCCESS,
+19:29.9,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 135,168, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+19:33.3,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Session Manager\SafeProcessSearchMode,NAME NOT FOUND,Length: 16
+19:36.6,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\uxtheme.dll,SUCCESS,
+19:39.9,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS,"Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+19:42.3,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\uxtheme.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+19:45.1,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\uxtheme.dll,SUCCESS,SyncType: SyncTypeOther
+19:42.4,Sigma-ransomware.exe,1940,Load Image,C:\Windows\System32\uxtheme.dll,SUCCESS,"Image Base: 0x74100000, Image Size: 0x40000"
+19:45.3,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\uxtheme.dll,SUCCESS,
+19:47.2,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 135,168, Length: 4,096, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+19:49.7,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Session Manager\SafeProcessSearchMode,NAME NOT FOUND,Length: 16
+19:58.8,Sigma-ransomware.exe,1940,CreateFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe.cfg,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+19:59.3,Sigma-ransomware.exe,1940,CreateFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\SXS.DLL,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+20:03.5,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\sxs.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+20:06.4,Sigma-ransomware.exe,1940,QueryBasicInformationFile,C:\Windows\System32\sxs.dll,SUCCESS,"CreationTime: 11/21/2010 21:29:19 AM, LastAccessTime: 11/21/2010 21:29:19 AM, LastWriteTime: 11/21/2010 21:29:19 AM, ChangeTime: 8/16/2018 1:21:35 AM, FileAttributes: A"
+20:09.7,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\sxs.dll,SUCCESS,
+20:14.4,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\sxs.dll,SUCCESS,"Desired Access: Read Data/List Directory, Execute/Traverse, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+20:18.6,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\sxs.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+20:19.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+20:21.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+20:22.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+20:23.9,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\sxs.dll,SUCCESS,SyncType: SyncTypeOther
+20:26.8,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\sxs.dll,SUCCESS,
+20:36.7,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CodePage\932,SUCCESS,"Type: REG_SZ, Length: 20, Data: c_932.nls"
+20:38.4,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\C_932.NLS,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+20:40:06,Sigma-ransomware.exe,1940,QueryBasicInformationFile,C:\Windows\System32\C_932.NLS,SUCCESS,"CreationTime: 7/13/2009 11:01:41 PM, LastAccessTime: 7/13/2009 20:01:41 PM, LastWriteTime: 6/11/2009 21:48:14 AM, ChangeTime: 8/16/2018 1:21:06 AM, FileAttributes: A"
+20:42.2,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\C_932.NLS,SUCCESS,
+20:46.5,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CodePage\949,SUCCESS,"Type: REG_SZ, Length: 20, Data: c_949.nls"
+20:50.3,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\C_949.NLS,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+20:53.1,Sigma-ransomware.exe,1940,QueryBasicInformationFile,C:\Windows\System32\C_949.NLS,SUCCESS,"CreationTime: 7/13/2009 11:01:41 PM, LastAccessTime: 7/13/2009 20:01:41 PM, LastWriteTime: 6/11/2009 21:48:14 AM, ChangeTime: 8/16/2018 1:21:06 AM, FileAttributes: A"
+20:56.8,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\C_949.NLS,SUCCESS,
+21:03.2,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CodePage\950,SUCCESS,"Type: REG_SZ, Length: 20, Data: c_950.nls"
+21:03.2,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CodePage\950,SUCCESS,"Type: REG_SZ, Length: 20, Data: c_950.nls"
+21:03.2,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CodePage\950,SUCCESS,"Type: REG_SZ, Length: 20, Data: c_950.nls"
+21:03.2,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CodePage\950,SUCCESS,"Type: REG_SZ, Length: 20, Data: c_950.nls"
+21:03.2,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CodePage\950,SUCCESS,"Type: REG_SZ, Length: 20, Data: c_950.nls"
+21:03.2,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CodePage\950,SUCCESS,"Type: REG_SZ, Length: 20, Data: c_950.nls"
+21:06.5,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\C_950.NLS,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+21:09.8,Sigma-ransomware.exe,1940,QueryBasicInformationFile,C:\Windows\System32\C_950.NLS,SUCCESS,"CreationTime: 7/13/2009 11:01:41 PM, LastAccessTime: 7/13/2009 21:01:41 PM, LastWriteTime: 6/11/2009 21:48:14 AM, ChangeTime: 8/16/2018 1:21:06 AM, FileAttributes: A"
+21:11.8,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\C_950.NLS,SUCCESS,
+21:14.5,Sigma-ransomware.exe,1940,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CodePage\936,SUCCESS,"Type: REG_SZ, Length: 20, Data: c_936.nls"
+21:17.6,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\C_936.NLS,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+21:21.3,Sigma-ransomware.exe,1940,QueryBasicInformationFile,C:\Windows\System32\C_936.NLS,SUCCESS,"CreationTime: 7/13/2009 11:01:41 PM, LastAccessTime: 7/13/2009 11:01:41 PM, LastWriteTime: 6/11/2009 21:48:14 AM, ChangeTime: 8/16/2018 1:21:06 AM, FileAttributes: A"
+21:24.5,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\C_936.NLS,SUCCESS,
+21:30.7,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 1,036,288, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+21:33.5,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\SOFTWARE\Microsoft\VBA\Monitors,NAME NOT FOUND,Desired Access: Maximum Allowed
+21:34.4,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 94,208, Length: 8,192, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+21:35.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+21:36.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+21:37.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+21:38.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+21:40.2,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 446,464, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+21:42.8,svchost.exe,2852,ReadFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 8,192, Length: 4,096"
+21:42.8,svchost.exe,2852,ReadFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 8,192, Length: 4,096"
+21:42.8,svchost.exe,2852,ReadFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 8,192, Length: 4,096"
+21:42.8,svchost.exe,2852,ReadFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 8,192, Length: 4,096"
+21:42.8,svchost.exe,2852,ReadFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 8,192, Length: 4,096"
+21:42.8,svchost.exe,2852,ReadFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 8,192, Length: 4,096"
+21:45.6,svchost.exe,2852,CloseFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 20,480, Length: 4,096"
+21:42.8,svchost.exe,2732,ReadFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 8,192, Length: 4,096"
+21:45.6,svchost.exe,2732,CloseFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 20,480, Length: 4,096"
+21:45.6,svchost.exe,2732,CloseFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 20,480, Length: 4,096"
+21:45.6,svchost.exe,2732,CloseFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 20,480, Length: 4,096"
+21:45.6,svchost.exe,2732,CloseFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 20,480, Length: 4,096"
+21:45.6,svchost.exe,2732,CloseFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 20,480, Length: 4,096"
+21:45.6,svchost.exe,2732,CloseFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\Sigma-ransomware.exe,SUCCESS,"Offset: 20,480, Length: 4,096"
+21:48.1,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 327,680, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+21:52.3,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 507,904, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+21:55.1,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 36,864, Length: 24,576, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+21:59.8,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\SOFTWARE\Microsoft\VBA\Monitors,NAME NOT FOUND,Desired Access: Maximum Allowed
+21:59.8,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\SOFTWARE\Microsoft\VBA\Monitors,NAME NOT FOUND,Desired Access: Maximum Allowed
+21:59.8,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\SOFTWARE\Microsoft\VBA\Monitors,NAME NOT FOUND,Desired Access: Maximum Allowed
+21:59.8,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\SOFTWARE\Microsoft\VBA\Monitors,NAME NOT FOUND,Desired Access: Maximum Allowed
+21:59.8,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\SOFTWARE\Microsoft\VBA\Monitors,NAME NOT FOUND,Desired Access: Maximum Allowed
+21:59.8,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\SOFTWARE\Microsoft\VBA\Monitors,NAME NOT FOUND,Desired Access: Maximum Allowed
+21:59.8,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\SOFTWARE\Microsoft\VBA\Monitors,NAME NOT FOUND,Desired Access: Maximum Allowed
+21:59.8,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\SOFTWARE\Microsoft\VBA\Monitors,NAME NOT FOUND,Desired Access: Maximum Allowed
+21:59.8,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\SOFTWARE\Microsoft\VBA\Monitors,NAME NOT FOUND,Desired Access: Maximum Allowed
+21:59.8,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\SOFTWARE\Microsoft\VBA\Monitors,NAME NOT FOUND,Desired Access: Maximum Allowed
+21:59.8,Sigma-ransomware.exe,1940,RegOpenKey,HKLM\SOFTWARE\Microsoft\VBA\Monitors,NAME NOT FOUND,Desired Access: Maximum Allowed
+22:04.4,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 933,888, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:06.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+22:06.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+22:06.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+22:06.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+22:06.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+22:06.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+22:06.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+22:06.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+22:06.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+22:06.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+22:09.1,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 892,928, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:13.4,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 835,584, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:16.7,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 802,816, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:20.6,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 868,352, Length: 24,576, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:26.3,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 430,080, Length: 16,384, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:28.6,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 188,416, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:31.7,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 294,912, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:36.4,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 1,069,056, Length: 20,480, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:40.6,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 364,544, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:44.8,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 262,144, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:48.9,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 172,032, Length: 16,384, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:44.8,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 262,144, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:48.9,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 172,032, Length: 16,384, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:44.8,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 262,144, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:48.9,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 172,032, Length: 16,384, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+22:53.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+22:54.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+22:55.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+22:56.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+22:54.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+22:55.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+22:56.1,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+23:03.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+23:03.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+23:03.4,Sigma-ransomware.exe,1940,QueryAttributeInformationVolume,C:\Windows\Fonts\sserife.fon,SUCCESS,"FileSystemAttributes: Case Preserved, Case Sensitive, Unicode, ACLs, Compression, Named Streams, EFS, Object IDs, Reparse Points, Sparse Files, Quotas, Transactions, 0x3c00000, MaximumComponentNameLength: 255, FileSystemName: NTFS"
+23:08.5,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\Fonts\sserife.fon,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_READ"
+23:08.5,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\Fonts\sserife.fon,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_READ"
+23:08.5,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\Fonts\sserife.fon,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_READ"
+23:08.5,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\Fonts\sserife.fon,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE_READ"
+23:10.7,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+23:11.7,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+23:12.7,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+23:13.7,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+23:14.7,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+23:14.9,Sigma-ransomware.exe,1940,QueryStandardInformationFile,C:\Windows\Fonts\sserife.fon,SUCCESS,"AllocationSize: 65,536, EndOfFile: 64,656, NumberOfLinks: 2, DeletePending: False, Directory: False"
+23:15.6,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\Fonts\sserife.fon,SUCCESS,SyncType: SyncTypeOther
+23:15.6,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\Fonts\sserife.fon,SUCCESS,SyncType: SyncTypeOther
+23:15.6,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\Fonts\sserife.fon,SUCCESS,SyncType: SyncTypeOther
+23:15.6,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\Fonts\sserife.fon,SUCCESS,SyncType: SyncTypeOther
+23:15.6,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\Fonts\sserife.fon,SUCCESS,SyncType: SyncTypeOther
+23:23.3,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 540,672, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+23:23.3,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 540,672, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+23:23.3,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 540,672, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+23:26.6,Sigma-ransomware.exe,1940,CreateFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\dwmapi.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+23:26.6,Sigma-ransomware.exe,1940,CreateFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\dwmapi.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+23:26.6,Sigma-ransomware.exe,1940,CreateFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\dwmapi.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+23:26.6,Sigma-ransomware.exe,1940,CreateFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\dwmapi.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+23:26.6,Sigma-ransomware.exe,1940,CreateFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\dwmapi.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+23:26.6,Sigma-ransomware.exe,1940,CreateFile,C:\Users\victim\Downloads\emails-malware-and-artifacts-from-password-protected-Word-doc-malspam\malware-and-artifacts\dwmapi.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+23:30.2,Sigma-ransomware.exe,1940,CreateFile,C:\Windows\System32\dwmapi.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+23:33.8,Sigma-ransomware.exe,1940,QueryBasicInformationFile,C:\Windows\System32\dwmapi.dll,SUCCESS,"CreationTime: 7/14/2009 2:24:17 AM, LastAccessTime: 7/14/2009 2:24:17 AM, LastWriteTime: 7/14/2009 4:00:13 AM, ChangeTime: 8/16/2018 1:21:09 AM, FileAttributes: A"
+23:45.2,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+23:48.5,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,SUCCESS,SyncType: SyncTypeOther
+23:48.7,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+23:48.9,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,SUCCESS,SyncType: SyncTypeOther
+23:49.2,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+23:49.5,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,SUCCESS,SyncType: SyncTypeOther
+23:49.6,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+23:49.7,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,SUCCESS,SyncType: SyncTypeOther
+23:49.8,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+23:49.9,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,SUCCESS,SyncType: SyncTypeOther
+23:50.2,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+23:50.3,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,SUCCESS,SyncType: SyncTypeOther
+23:50.4,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+23:50.5,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,SUCCESS,SyncType: SyncTypeOther
+23:50.6,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+23:50.7,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,SUCCESS,SyncType: SyncTypeOther
+23:50.8,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+23:50.9,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,SUCCESS,SyncType: SyncTypeOther
+23:51.1,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,FILE LOCKED WITH ONLY READERS,"SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+23:51.5,Sigma-ransomware.exe,1940,CreateFileMapping,C:\Windows\System32\dwmapi.dll,SUCCESS,SyncType: SyncTypeOther
+23:51.6,Sigma-ransomware.exe,1940,Load Image,C:\Windows\System32\dwmapi.dll,SUCCESS,"Image Base: 0x73dd0000, Image Size: 0x13000"
+23:55.2,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\dwmapi.dll,SUCCESS,
+23:55.2,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\dwmapi.dll,SUCCESS,
+23:55.2,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\dwmapi.dll,SUCCESS,
+23:55.2,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\dwmapi.dll,SUCCESS,
+23:55.2,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\dwmapi.dll,SUCCESS,
+23:55.2,Sigma-ransomware.exe,1940,CloseFile,C:\Windows\System32\dwmapi.dll,SUCCESS,
+23:59.3,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 770,048, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:04.9,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 737,280, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:09.4,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\user32.dll,SUCCESS,"Offset: 295,936, Length: 24,576, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:14.7,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 700,416, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:18.8,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\user32.dll,SUCCESS,"Offset: 332,800, Length: 28,672, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:55.5,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\oleaut32.dll,SUCCESS,"Offset: 214,016, Length: 28,672, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:57.8,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 970,752, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:25.5,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 655,360, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:35.7,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 479,232, Length: 28,672, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:39.3,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\oleaut32.dll,SUCCESS,"Offset: 406,528, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:45.6,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\oleaut32.dll,SUCCESS,"Offset: 242,688, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:49.1,SearchIndexer.exe,2560,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Search,NAME NOT FOUND,Desired Access: Query Value
+00:49.1,SearchIndexer.exe,2560,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Search,NAME NOT FOUND,Desired Access: Query Value
+00:49.1,SearchIndexer.exe,2560,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Search,NAME NOT FOUND,Desired Access: Query Value
+00:49.1,SearchIndexer.exe,2560,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Search,NAME NOT FOUND,Desired Access: Query Value
+00:49.1,SearchIndexer.exe,2560,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Search,NAME NOT FOUND,Desired Access: Query Value
+00:49.1,SearchIndexer.exe,2560,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Search,NAME NOT FOUND,Desired Access: Query Value
+00:49.1,SearchIndexer.exe,2560,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Search,NAME NOT FOUND,Desired Access: Query Value
+00:49.1,SearchIndexer.exe,2560,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Search,NAME NOT FOUND,Desired Access: Query Value
+00:49.1,SearchIndexer.exe,2560,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Search,NAME NOT FOUND,Desired Access: Query Value
+00:49.1,SearchIndexer.exe,2560,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Search,NAME NOT FOUND,Desired Access: Query Value
+00:49.1,SearchIndexer.exe,2560,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Search,NAME NOT FOUND,Desired Access: Query Value
+00:50.5,SearchIndexer.exe,2560,CreateFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"Desired Access: Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open For Free Space Query, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+00:50.5,SearchIndexer.exe,2560,CreateFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"Desired Access: Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open For Free Space Query, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+00:50.5,SearchIndexer.exe,2560,CreateFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"Desired Access: Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open For Free Space Query, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+00:50.5,SearchIndexer.exe,2560,CreateFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"Desired Access: Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open For Free Space Query, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+00:50.5,SearchIndexer.exe,2560,CreateFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"Desired Access: Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open For Free Space Query, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+00:50.5,SearchIndexer.exe,2560,CreateFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"Desired Access: Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open For Free Space Query, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+00:50.5,SearchIndexer.exe,2560,CreateFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"Desired Access: Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open For Free Space Query, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+00:50.5,SearchIndexer.exe,2560,CreateFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"Desired Access: Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open For Free Space Query, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+00:50.5,SearchIndexer.exe,2560,CreateFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"Desired Access: Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open For Free Space Query, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+00:50.5,SearchIndexer.exe,2560,CreateFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"Desired Access: Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open For Free Space Query, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+00:50.5,SearchIndexer.exe,2560,CreateFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"Desired Access: Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open For Free Space Query, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+00:50.5,SearchIndexer.exe,2560,CreateFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"Desired Access: Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open For Free Space Query, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+00:50.5,SearchIndexer.exe,2560,CreateFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"Desired Access: Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Open For Free Space Query, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+00:53.5,SearchIndexer.exe,2560,QuerySizeInformationVolume,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"TotalAllocationUnits: 11,150,591, AvailableAllocationUnits: 7,265,348, SectorsPerAllocationUnit: 8, BytesPerSector: 512"
+00:53.5,SearchIndexer.exe,2560,QuerySizeInformationVolume,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"TotalAllocationUnits: 11,150,591, AvailableAllocationUnits: 7,265,348, SectorsPerAllocationUnit: 8, BytesPerSector: 512"
+00:53.5,SearchIndexer.exe,2560,QuerySizeInformationVolume,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"TotalAllocationUnits: 11,150,591, AvailableAllocationUnits: 7,265,348, SectorsPerAllocationUnit: 8, BytesPerSector: 512"
+00:53.5,SearchIndexer.exe,2560,QuerySizeInformationVolume,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"TotalAllocationUnits: 11,150,591, AvailableAllocationUnits: 7,265,348, SectorsPerAllocationUnit: 8, BytesPerSector: 512"
+00:53.5,SearchIndexer.exe,2560,QuerySizeInformationVolume,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"TotalAllocationUnits: 11,150,591, AvailableAllocationUnits: 7,265,348, SectorsPerAllocationUnit: 8, BytesPerSector: 512"
+00:53.5,SearchIndexer.exe,2560,QuerySizeInformationVolume,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"TotalAllocationUnits: 11,150,591, AvailableAllocationUnits: 7,265,348, SectorsPerAllocationUnit: 8, BytesPerSector: 512"
+00:53.5,SearchIndexer.exe,2560,QuerySizeInformationVolume,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"TotalAllocationUnits: 11,150,591, AvailableAllocationUnits: 7,265,348, SectorsPerAllocationUnit: 8, BytesPerSector: 512"
+00:53.5,SearchIndexer.exe,2560,QuerySizeInformationVolume,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"TotalAllocationUnits: 11,150,591, AvailableAllocationUnits: 7,265,348, SectorsPerAllocationUnit: 8, BytesPerSector: 512"
+00:53.5,SearchIndexer.exe,2560,QuerySizeInformationVolume,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"TotalAllocationUnits: 11,150,591, AvailableAllocationUnits: 7,265,348, SectorsPerAllocationUnit: 8, BytesPerSector: 512"
+00:53.5,SearchIndexer.exe,2560,QuerySizeInformationVolume,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"TotalAllocationUnits: 11,150,591, AvailableAllocationUnits: 7,265,348, SectorsPerAllocationUnit: 8, BytesPerSector: 512"
+00:53.5,SearchIndexer.exe,2560,QuerySizeInformationVolume,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"TotalAllocationUnits: 11,150,591, AvailableAllocationUnits: 7,265,348, SectorsPerAllocationUnit: 8, BytesPerSector: 512"
+00:53.5,SearchIndexer.exe,2560,QuerySizeInformationVolume,C:\ProgramData\Microsoft\Search\Data,SUCCESS,"TotalAllocationUnits: 11,150,591, AvailableAllocationUnits: 7,265,348, SectorsPerAllocationUnit: 8, BytesPerSector: 512"
+00:54.5,SearchIndexer.exe,2560,CloseFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,
+00:54.5,SearchIndexer.exe,2560,CloseFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,
+00:54.5,SearchIndexer.exe,2560,CloseFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,
+00:54.5,SearchIndexer.exe,2560,CloseFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,
+00:54.5,SearchIndexer.exe,2560,CloseFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,
+00:54.5,SearchIndexer.exe,2560,CloseFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,
+00:54.5,SearchIndexer.exe,2560,CloseFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,
+00:54.5,SearchIndexer.exe,2560,CloseFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,
+00:54.5,SearchIndexer.exe,2560,CloseFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,
+00:54.5,SearchIndexer.exe,2560,CloseFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,
+00:54.5,SearchIndexer.exe,2560,CloseFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,
+00:54.5,SearchIndexer.exe,2560,CloseFile,C:\ProgramData\Microsoft\Search\Data,SUCCESS,
+00:55.5,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\oleaut32.dll,SUCCESS,"Offset: 214,016, Length: 28,672, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:57.8,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 970,752, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:55.5,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\oleaut32.dll,SUCCESS,"Offset: 214,016, Length: 28,672, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:57.8,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 970,752, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:55.5,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\oleaut32.dll,SUCCESS,"Offset: 214,016, Length: 28,672, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+00:57.8,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\msvbvm60.dll,SUCCESS,"Offset: 970,752, Length: 32,768, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
+01:02.7,Sigma-ransomware.exe,1940,Load Image,C:\Windows\System32\shell32.dll,SUCCESS,"Image Base: 0x75990000, Image Size: 0xc4a000"
+01:06.7,Sigma-ransomware.exe,1940,ReadFile,C:\Windows\System32\shell32.dll,SUCCESS,"Offset: 2,381,824, Length: 28,672, I/O Flags: Non-cached, Paging I/O, Synchronous Paging I/O, Priority: Normal"
